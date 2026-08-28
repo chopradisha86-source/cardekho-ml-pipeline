@@ -1,9 +1,11 @@
 # Car Dekho Data Analysis & Visualizations
 
-![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458.svg)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)
-![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC.svg)
+# Car Dekho Data Analysis & Visualizations
+
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)](https://seaborn.pydata.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-IDE-007ACC.svg)](https://code.visualstudio.com/)
 
 ## 📌 Project Overview
 This project presents an end-to-end Exploratory Data Analysis (EDA) pipeline on the **CarDekho Dataset**. The primary objective is to extract data-driven insights by answering 25 core analytical queries surrounding vehicle sales patterns, pricing distributions, depreciation drivers, and categorical differences between cars and two-wheelers.
