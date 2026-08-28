@@ -1,6 +1,5 @@
 # Car Dekho Data Analysis & Visualizations
 
-# Car Dekho Data Analysis & Visualizations
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458.svg)](https://pandas.pydata.org/)
