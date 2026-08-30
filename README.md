@@ -20,12 +20,19 @@
 ## 📁 Repository Structure
 
 cardekho-ml-pipeline/
+
 ├── data/
+
 │   └── car_data.csv          # Raw CarDekho dataset
+
 ├── notebooks/
+
 │   └── eda_and_modeling.ipynb # Comprehensive EDA & Visualization Notebook
+
 ├── .gitignore                # Git exclusion rules
+
 ├── requirements.txt          # Python environment dependencies
+
 └── README.md                 # Project documentation
 
 
@@ -70,35 +77,3 @@ The analysis answers 25 targeted questions structured into four main phases:
 
 ---
 
-## ⚙️ How to Run Locally
-
-### 1. Clone the Repository
-
-\```bash
-git clone https://github.com/YOUR_USERNAME/cardekho-ml-pipeline.git
-cd cardekho-ml-pipeline
-\```
-
-### 2. Set Up Virtual Environment
-
-\```bash
-# On Windows
-python -m venv venv
-.\venv\Scripts\activate
-
-# On Mac/Linux
-python3 -m venv venv
-source venv/bin/activate
-\```
-
-### 3. Install Dependencies
-
-\```bash
-pip install -r requirements.txt
-\```
-
-### 4. Run the Notebook in VS Code
-
-1. Open the folder in **VS Code**.
-2. Open `notebooks/eda_and_modeling.ipynb`.
-3. Select the `venv` kernel in the top-right corner and execute all cells.
