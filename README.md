@@ -18,7 +18,7 @@
 ---
 
 ## 📁 Repository Structure
-\```text
+
 cardekho-ml-pipeline/
 ├── data/
 │   └── car_data.csv          # Raw CarDekho dataset
@@ -27,7 +27,7 @@ cardekho-ml-pipeline/
 ├── .gitignore                # Git exclusion rules
 ├── requirements.txt          # Python environment dependencies
 └── README.md                 # Project documentation
-\```
+
 
 ---
 
