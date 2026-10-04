@@ -61,7 +61,7 @@ The analysis answers 25 targeted questions structured into four main phases:
 * Identifies the oldest, newest, and highest-volume bikes sold.
 * Analyzes price outliers representing premium deals exceeding market expectations.
 
-### 4. Four-Wheeler (Cars) Sub-Analysis
+### 4. Four Wheeler (Cars) Sub-Analysis
 
 * Isolates car records to analyze price distributions across luxury vs. standard segments.
 * Tracks depreciation curves across automatic vs. manual transmissions and individual vs. dealer sales.
