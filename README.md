@@ -40,7 +40,7 @@ cardekho-ml-pipeline/
 
 ## 📊 Key Analytical Insights & Scope
 
-The analysis answers 25 targeted questions structured into four main phases:
+The analysis answers 25 targeted questions structured into four main phases:-
 
 ### 1. General Dataset Overview
 
